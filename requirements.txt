@@ -1,0 +1,10 @@
+pandas
+scikit-learn
+faker
+fastapi
+uvicorn[standard]
+streamlit
+requests
+joblib
+boto3
+numpy
